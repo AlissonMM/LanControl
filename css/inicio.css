@@ -1,0 +1,98 @@
+body{
+
+}
+
+#banner{
+    width: 150vh;
+    object-fit: cover;
+    margin: 40px auto;
+    margin-bottom: 150px;
+}
+
+.beneficios {
+
+    padding: 20px;
+}
+
+.beneficios p {
+    display: inline-block;
+    vertical-align: middle;
+    width: 20%;
+    margin-right: 15%;
+    text-align:center;
+    font-size: 20px;
+  
+}
+
+i{
+    font-weight: bold;
+    color: #2d8bba;
+}
+
+.titulo-centralizado{
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+.p1{
+    text-align: center  ;
+  
+}
+
+#imagembeneficios{
+    width: 80vh;
+    margin-right: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    object-fit: cover;
+}
+
+.wol{
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    width: 60%;
+}
+
+.wol p{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    text-align:center;
+    display: inline-block;
+    width: 30%;
+    font-size: 20px; 
+
+}
+
+#woli{
+    display: inline-block;
+    vertical-align: middle;
+    width: 10vh;
+}
+
+
+iframe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+
+h{
+    color: red;
+    font-weight: bold;
+}
+
+ a .twitter-timeline{
+    width: 10vh;
+}
+
+.informacoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
